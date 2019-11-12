@@ -2,6 +2,5 @@
 
 ### Projektbeskrivning
 
-Detta är en demo av git.
+Detta Ã¤r en demo av git.
 
-Nytt stycke.
