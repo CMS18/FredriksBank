@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FredriksBank.Web", "FredriksBank.Web\FredriksBank.Web.csproj", "{168018FE-270A-4966-AFBD-756EECE1A770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FredriksBank.Web", "FredriksBank.Web\FredriksBank.Web.csproj", "{168018FE-270A-4966-AFBD-756EECE1A770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FredriksBank.Tests", "FredriksBank.Tests\FredriksBank.Tests.csproj", "{6B35EE0C-F0D8-44AA-9B93-B49DFF3139E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FredriksBank.xUnitTests", "FredriksBank.xUnitTests\FredriksBank.xUnitTests.csproj", "{794F4BB1-F883-48E7-B9A3-41BD42121ED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{168018FE-270A-4966-AFBD-756EECE1A770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168018FE-270A-4966-AFBD-756EECE1A770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168018FE-270A-4966-AFBD-756EECE1A770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B35EE0C-F0D8-44AA-9B93-B49DFF3139E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B35EE0C-F0D8-44AA-9B93-B49DFF3139E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B35EE0C-F0D8-44AA-9B93-B49DFF3139E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B35EE0C-F0D8-44AA-9B93-B49DFF3139E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794F4BB1-F883-48E7-B9A3-41BD42121ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794F4BB1-F883-48E7-B9A3-41BD42121ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794F4BB1-F883-48E7-B9A3-41BD42121ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794F4BB1-F883-48E7-B9A3-41BD42121ED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
